@@ -1,4 +1,5 @@
 # Quiz-App-In-Python
+This quiz app was created with GUI in python using tkinter.
 # Instructions
 To run this project, you must have installed Python on your PC. After downloading the project, you have to follow the steps below:
 
